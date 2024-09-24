@@ -15,7 +15,7 @@ git clone https://github.com/Mkhanijow123/django_demo_mk.git
 
 2. Build the app
 ```
-docker build -t notes-app .
+docker build -t demo_mk .
 ```
 
 3. Run the app
